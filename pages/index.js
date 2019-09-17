@@ -3,7 +3,7 @@ import Menu from "../components/Menu";
 const Homepage = () => (
   <div className="container">
     <Menu />
-    <h1>Welcome to our website!</h1>
+    <h1>Welcome to My Project Website!</h1>
   </div>
 );
 

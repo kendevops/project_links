@@ -1,10 +1,9 @@
-import Menu from "../components/Menu";
+import Layout from "../components/Layout";
 
 const About = () => (
-  <div class="container">
-    <Menu />
+  <Layout>
     <h1>About Me</h1>
-  </div>
+  </Layout>
 );
 
 export default About;
